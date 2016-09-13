@@ -1,6 +1,6 @@
 # Montreal-smoked-meat
 
-Adapted from Adapted from http://www.seriouseats.com/recipes/2012/02/montreal-smoked-meat-recipe.html
+Adapted from http://www.seriouseats.com/recipes/2012/02/montreal-smoked-meat-recipe.html
 
 1. Kosher Brisket (pre-salted)
   <br/>![Kosher Brisket](/images/1-brisket.jpg) 
