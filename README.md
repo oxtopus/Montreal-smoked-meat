@@ -16,7 +16,7 @@ Adapted from Adapted from http://www.seriouseats.com/recipes/2012/02/montreal-sm
 1. Prepare smoker with a base of charcoal and a few handfuls of hickory wood chips.
   <br/>![Prepare smoker](/images/3-prep-smoker.jpg) 
 1. Smoke, covered until wood chips no longer produce smoke (~2 hrs)
-  <br/>![Smoke, covered.](/images/4-brisket.jpg) 
+  <br/>![Smoke, covered.](/images/4-smoke.jpg) 
 1. Remove from smoker
   <br/>![Remove](/images/5-done.jpg) 
 1. Vacuum-seal brisket and cook sous-vide at 145 deg. F for ~36 hrs
